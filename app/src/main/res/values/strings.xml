@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">TPDM_U1_Practica3_ErikaMartinez</string>
+    <string name="app_name">Clubs</string>
+    <string name="title_activity_main2">Main2Activity</string>
 </resources>
